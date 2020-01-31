@@ -1,0 +1,11 @@
+canvas
+{
+	height:100%;
+    background: linear-gradient(345deg, #000000 .3%, #414141 96%);
+	width: 100%;
+}
+body, html
+{
+	height:100%;
+	margin:0;
+}
